@@ -15,21 +15,21 @@
 <div class="container">
     <!-- Example row of columns -->
     <div class="row">
-        <div class="col-md-4">
+        <div class="col-md-6">
             <h2>Сборник</h2>
             <p>В этом разделе вы найдете задачи по данной теме, а также их решения.</p>
             <p><a class="btn btn-default" href="sbornik.php" role="button">Посмотреть &raquo;</a></p>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-6">
             <h2>Калькуляторы</h2>
             <p>В Сборнике, на некоторые задачи работают калькуляторы, с помощью которых, введя данные, вы можете получить необходимое вам растояние.</p>
             <p><a class="btn btn-default" href="sbornik.php" role="button">Посмотреть &raquo;</a></p>
         </div>
-        <div class="col-md-4">
+        <!--<div class="col-md-4">
             <h2>Информация</h2>
             <p>Информация об авторе и данном проекте.</p>
             <p><a class="btn btn-default" href="#" role="button">Посмотреть &raquo;</a></p>
-        </div>
+        </div>-->
     </div>
 </div>
 <?php require_once 'assets/footer.php'; ?>

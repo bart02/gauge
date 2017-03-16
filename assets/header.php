@@ -34,7 +34,7 @@
                         <li <?php if ($_SERVER['PHP_SELF'] == "/index.php") { ?> class="active"<?php } ?> ><a href="/">Главная</a></li>
                         <li <?php if ($_SERVER['PHP_SELF'] == "/sbornik.php") { ?> class="active"<?php } ?> ><a href="/sbornik.php">Сборник задач</a></li>
                         <!--<li <?php if ($_SERVER['PHP_SELF'] == "/calc.php") { ?> class="active"<?php } ?> ><a href="/calc.php">Калькуляторы</a></li>-->
-                        <li <?php if ($_SERVER['PHP_SELF'] == "/info.php") { ?> class="active"<?php } ?> ><a href="/info.php">Информация</a></li>
+                        <!--<li <?php if ($_SERVER['PHP_SELF'] == "/info.php") { ?> class="active"<?php } ?> ><a href="/info.php">Информация</a></li>-->
                     </ul>
                 </div><!--/.navbar-collapse -->
             </div>
