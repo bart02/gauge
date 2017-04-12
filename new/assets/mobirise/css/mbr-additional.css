@@ -1,0 +1,32 @@
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-0 .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-0 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#content4-2 .mbr-section-title .mbr-header__text {
+  font-size: 60px;
+}
+#content4-2 .mbr-section__col .mbr-header__text {
+  font-size: 30px;
+}
+#content4-2 P {
+  font-size: 15px;
+}
+#content5-4 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-4 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-4 .mbr-article {
+  color: #fff;
+}
